@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a BSc.CSIT student with a strong interest in software development and backend technologies. I'm currently focused on strengthening my programming fundamentals while learning modern development tools and frameworks.
+I'm a BSc.CSIT student with a strong interest in software development, Machine Learning and Data Science. I'm currently focused on strengthening my programming fundamentals while learning modern development tools and frameworks.
 
 ## Currently Learning
 
