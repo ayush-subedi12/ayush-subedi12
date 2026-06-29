@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Ayush Subedi 👋
 
-<!--
-**ayush-subedi12/ayush-subedi12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a BSc.CSIT student with a strong interest in software development and backend technologies. I'm currently focused on strengthening my programming fundamentals while learning modern development tools and frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+
+- Python
+- Data Science
+- SQL
+- Git & GitHub
+
+## Technical Skills
+
+- C
+- C++
+- Python
+- HTML
+- CSS
+- SQL
+- Git
+- GitHub
+
+## Goals
+
+- Develop strong problem-solving skills
+- Build practical software applications
+- Learn industry best practices
+- Continuously improve as a software developer
+
+## Looking Forward To
+
+- Developing meaningful software projects
+- Collaborating with other developers
+- Contributing to open-source projects
+- Exploring new technologies
+
+---
+
+ *"Every expert was once a beginner. Consistent learning leads to continuous growth."*
+
+Thank you for visiting my profile!
