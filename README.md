@@ -38,6 +38,6 @@ I'm a BSc.CSIT student with a strong interest in software development and backen
 
 ---
 
- *"Every expert was once a beginner. Consistent learning leads to continuous growth."*
+> *"Every expert was once a beginner. Consistent learning leads to continuous growth."*
 
 Thank you for visiting my profile!
